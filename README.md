@@ -1,4 +1,4 @@
-# yoctoservo_ros
+# yoctoservo_ros [![Build Status](https://travis-ci.org/fjperezgrau/yoctoservo_ros.svg?branch=master)](https://travis-ci.org/fjperezgrau/yoctoservo_ros)
 ROS package for interfacing with Yocto-Servo device: http://www.yoctopuce.com/EN/products/usb-actuators/yocto-servo
 
 Refer to their user's guide for more info: 
