@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>yoctoservo_ros</name>
+  <version>1.0.0</version>
+  <description>Interface to RC servo motors through Yoctopuce board</description>
+
+  <maintainer email="fjperezgrau@gmail.com">Francisco J. Perez Grau</maintainer>
+  <license>BSD</license>
+  <author email="fjperezgrau@gmail.com">Francisco J. Perez Grau</author> 
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+
+  <export>
+  </export>
+</package>

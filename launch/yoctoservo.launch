@@ -1,0 +1,10 @@
+<!-- 
+  RC servo control
+-->
+
+<launch>
+    <node name="servo_ctrl" pkg="yoctoservo_ros" type="yoctoservo" output="screen">
+      <param name="pos" value="1000"/>
+    </node>
+</launch>
+
